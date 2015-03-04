@@ -40,7 +40,7 @@
 					         	<li class="divider"></li>
 					         <li><a href="comandos.php">terminal</a></li>
 					         <li><a href="bucles.php">Bucles</a></li>
-					         <li><a href="comandos.php">otra cosa1</a></li>
+					         <li><a href="poker.php">Poker</a></li>
 					         <li><a href="comandos.php">otra cosa2</a></li>
 					         	
 					       </ul>
